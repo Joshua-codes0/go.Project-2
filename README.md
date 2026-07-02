@@ -15,4 +15,4 @@ Ensure you have Go installed on your machine.
 
 Installation
 Clone the repository to your workspace:
-git clone [https://github.com/Joshua-codes0/YOUR_REPOSITORY_NAME.git](https://github.com/Joshua-codes0/go.Project 2.git)
+git clone [https://github.com/Joshua-codes0/YOUR_REPOSITORY_NAME.git](https://github.com/Joshua-codes0/go.Project-2.git)
